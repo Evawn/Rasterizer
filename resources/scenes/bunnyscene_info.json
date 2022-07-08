@@ -1,0 +1,76 @@
+{
+    "lights": [
+        {
+            "node": "Point",
+            "type": "point",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "power": [
+                500,
+                500,
+                350
+            ]
+        },
+        {
+            "node": "Area",
+            "type": "area",
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "normal": [
+                0,
+                0,
+                -1
+            ],
+            "up": [
+                0,
+                1,
+                0
+            ],
+            "size": [
+                3.2,
+                3.4
+            ],
+            "power": [
+                200,
+                200,
+                200
+            ]
+        },
+        {
+            "node": "Ambient",
+            "type": "ambient",
+            "radiance": [
+                0.12,
+                0.2,
+                0.25
+            ],
+            "range": 0.2
+        }
+    ],
+    "materials": [
+        {
+            "node": "bunny",
+            "diffuse": [
+                0.2,
+                0.3,
+                0.8
+            ],
+            "roughness": 0.1
+        },
+        {
+            "node": "Cube",
+            "diffuse": [
+                0.2,
+                0.2,
+                0.2
+            ],
+            "rouguness": 0.4
+        }
+    ]
+}

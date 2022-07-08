@@ -1,0 +1,55 @@
+{
+    "lights": [
+        {
+            "node": "Point_001",
+            "type": "point",
+            "position": [0, 0, 0],
+            "power": [25, 25, 25]
+        },
+        {
+            "node": "Area",
+            "type": "area",
+            "position": [0, 0, 0],
+            "normal": [0, 0, -1],
+            "up": [0, 1, 0],
+            "size": [3.2, 3.4],
+            "power": [1000, 1000, 1000]
+        },
+        {
+            "node": "Ambient",
+            "type": "ambient",
+            "radiance": [0.25, 0.25, 0.25],
+            "range": 1.0
+        }
+    ],
+    "materials": [
+        {
+            "name": "Paint - White Matt",
+            "type": "microfacet",
+            "diffuse": [0.8, 0.8, 0.8],
+            "ior": 1.2,
+            "roughness": 0.5
+        },
+        {
+            "name": "Wood - Stairs",
+            "type": "microfacet",
+            "diffuse": [0.6, 0.4, 0.2],
+            "ior": 1.5,
+            "roughness": 0.25
+        },
+        {
+            "name": "Wood - Chair",
+            "type": "microfacet",
+            "diffuse": [0.4, 0.2, 0.1],
+            "ior": 1.5,
+            "roughness": 0.15
+        },
+        {
+            "name": "Chair Seat",
+            "type": "microfacet",
+            "diffuse": [0.8, 0.1, 0.1],
+            "ior": 1.5,
+            "roughness": 0.15
+        }
+    ]
+}
