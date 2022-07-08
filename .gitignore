@@ -1,4 +1,4 @@
-
+ext/
 ext/assimp/.clang-format
 ext/assimp/.coveralls.yml
 ext/assimp/.editorconfig
