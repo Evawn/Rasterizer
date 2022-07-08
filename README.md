@@ -1,7 +1,7 @@
 # Rasterizer
-###3D Scene Renderer by Rasterization using C++ and OpenGL
+### 3D Scene Renderer by Rasterization using C++ and OpenGL
 
-##INSTRUCTIONS TO RUN:
+## INSTRUCTIONS TO RUN:
 In the main folder, run the following commands in the terminal
 
 ```
