@@ -2,7 +2,8 @@
 ### 3D Scene Renderer by Rasterization using C++ and OpenGL
 
 ## INSTRUCTIONS TO RUN:
-In the main folder, run the following commands in the terminal
+First, unzip ```ext.zip```
+Then, in the main folder, run the following commands in the terminal:
 
 ```
 mkdir build
