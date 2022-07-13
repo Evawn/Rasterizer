@@ -1,3 +1,5 @@
 ext/
 build/
 .DS_Store
+resources/scenes/tree.dae
+resources/scenes/tree_info.json
