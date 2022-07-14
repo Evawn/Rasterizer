@@ -1,5 +1,6 @@
 # Rasterizer
 ### 3D Scene Renderer by Rasterization using C++ and OpenGL
+Made by Evan Azari and Chuckwuemeka Ubakanma
 
 ## INSTRUCTIONS TO RUN:
 First, unzip ```ext.zip```
